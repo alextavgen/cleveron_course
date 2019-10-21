@@ -1,0 +1,2 @@
+https://pynative.com/python-data-structure-exercise-for-beginners/
+Try to solve this excercises. There are solutions as well, but try to solve first without helping from solution
